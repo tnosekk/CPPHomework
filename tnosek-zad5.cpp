@@ -1,6 +1,7 @@
 #include <iostream>
 #include <random>
 #include <unistd.h>
+#include <stdlib.h>
 
 const int N = 30; // matrix size
 
